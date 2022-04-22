@@ -1,0 +1,29 @@
+
+p{
+ color: red;
+ font-size: x-large;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: green;
+    color: blue;
+}
+li{
+    font-style: italic;
+    width: 40%;
+}
+img{
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    border: 2px;
+    border-radius: 450px;
+    margin: 30px;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: yellow;
+    margin-bottom: 3px;
+    background-color: purple;
+}
